@@ -31,7 +31,7 @@ Before you begin, make sure you have Docker and Docker Compose installed on your
    Use Docker Compose to build and start the services defined in the **docker-compose.yml** file:
 
    ```bash
-   cd your-repo
+   docker-compose up --build
    
 
 ## Data Pipeline Configuration
