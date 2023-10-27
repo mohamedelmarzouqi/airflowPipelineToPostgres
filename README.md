@@ -17,14 +17,14 @@ Before you begin, make sure you have Docker and Docker Compose installed on your
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/mohamedelmarzouqi/FlaskAndStreamlitApp.git
+   git clone https://github.com/mohamedelmarzouqi/airflowPipelineToPostgres.git
 
 2. **Navigate to the Repository**
 
    Change your working directory to the cloned repository:
 
    ```bash
-   cd FlaskAndStreamlitApp
+   cd airflowPipelineToPostgres
 
 3. **Build and Start the Docker Compose Services**
 
