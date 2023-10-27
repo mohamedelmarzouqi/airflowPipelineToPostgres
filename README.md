@@ -1,5 +1,3 @@
-# airflowPipilineToPostgres
-This project create a pipeline from a csv file to a postgres database
 
 # Data Pipeline with Apache Airflow
 
